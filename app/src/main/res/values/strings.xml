@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FalconAce</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="internet_not_connected">您尚未連接 Internet</string>
+    <string name="something_wrong">有些壞掉了</string>
+
+</resources>
